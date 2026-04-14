@@ -2,6 +2,11 @@
 
 A comprehensive, full-stack Hostel & PG Management System designed to streamline room allocation, payment tracking, and complaint resolution for both administrators and students.
 
+## Live Demo
+- frontend : https://f4-pg-management-system-3j8n.vercel.app/
+- backend : https://f4-pg-management-system.onrender.com
+
+
 ## 🌟 Key Features
 
 - **Role-Based Access Control (RBAC):** Secure access separated into Admin and Student roles.
